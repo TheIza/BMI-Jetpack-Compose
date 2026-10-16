@@ -5,7 +5,8 @@
 Aplicación Android desarrollada con **Kotlin** y **Jetpack Compose** para calcular el **índice de masa corporal (BMI)** a partir del peso y la altura del usuario.
 
 ## Imagen
-<img width="385" height="768" alt="image" src="https://github.com/user-attachments/assets/fa0b31e4-3851-45c6-9521-eeaa58eb34d6" />
+<img width="1071" height="1469" alt="image" src="https://github.com/user-attachments/assets/1a4f2db6-bb0d-44af-95e3-4c5c3776f337" />
+
 <img width="385" height="768" alt="image" src="https://github.com/user-attachments/assets/080beae6-f9da-43c4-8eec-86f95b68f6de" />
 
 
